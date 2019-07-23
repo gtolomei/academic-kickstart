@@ -45,4 +45,17 @@ date_format = "Jan 2006"
   -  Design, implement, and test innovative prototypes into production buckets as response to internal challenges, in collaboration with Product and Engineering teams.<br/> 
   -  Delivery results both internally and externally (e.g., research paper submissions to top conferences like SIGIR, KDD, CIKM, RecSys, WSDM, WWW, etc.)"""
 
+[[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "Ca' Foscari University of Venice"
+  company_url = "https://www.unive.it/pag/28183"
+  location = "Italy"
+  date_start = "2012-01-13"
+  date_end = "2014-06-01"
+  description = """
+  **Main Goals:**<br/>
+  -  Application of machine learning and data mining techniques to large scale, heterogeneous
+data sources with the aim of improving the effectiveness of web search engines.
+  """
+  
 +++
