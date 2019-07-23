@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Gabriele Tolomei is Assistant Professor of Computer Science at the University of Padova, Italy. His research interests include web search, (robust) machine learning, and computational advertising.
+Gabriele Tolomei is Assistant Professor of Computer Science at the University of Padova, Italy. His research interests include *web search*, *(robust) machine learning*, and *computational advertising*.
