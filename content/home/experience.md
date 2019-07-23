@@ -18,27 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assistant Professor"
+  company = "University of Padova"
+  company_url = "https://www.math.unipd.it/en/"
+  location = "Italy"
+  date_start = "2017-07-18"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Research activities on topics at the intersection of machine learning and computer security. Establishment of a multidisciplinary team focused on adversarial machine learning in collaboration with Ca' Foscari University of Venice, Italy.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Scientist"
+  company = "Yahoo Research"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "London, UK"
+  date_start = "2014-06-02"
+  date_end = "2017-07-14"
+  description = """Improve the engagement of users with Gemini, the integrated Yahoo online advertising platform. Promote "high quality" advertisements using measures of post-click satisfaction, which go beyond traditional Click-Through Rate (CTR). Analyse large-scale datasets from distributed computing environments and mine interesting patterns via statistical/machine learning solutions. Design, implement, and test innovative prototypes into production buckets as response to internal challenges, in collaboration with Product and Engineering teams. Delivery results both internally and externally (e.g., research paper submissions to top conferences like SIGIR, KDD, CIKM, RecSys, WSDM, WWW, etc.)"""
 
 +++
