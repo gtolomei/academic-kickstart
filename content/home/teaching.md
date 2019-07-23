@@ -24,9 +24,7 @@ date_format = "Jan 2006"
   location = "Italy"
   date_start = "2018-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
+  description = """  
   * Python Programming (for Data Science)
   * Programmazione I (Introduction to Programming)
   """
