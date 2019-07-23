@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2017-07-18"
   date_end = ""
   description = """
-  **Main Goals:**
-  -  Research activities on topics at the intersection of machine learning and computer security. 
+  **Main Goals:**<br/>
+  -  Research activities on topics at the intersection of machine learning and computer security.<br/>
   -  Establishment of a multidisciplinary team focused on adversarial machine learning in collaboration with Ca' Foscari University of Venice, Italy.
   """
 
