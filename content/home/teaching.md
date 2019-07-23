@@ -18,15 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "2018-2019"
+  title = "Python Programming (for Data Science) [2018-2019]"
   company = "University of Padova"
   company_url = ""
   location = "Italy"
   date_start = "2018-10-01"
   date_end = ""
-  description = """  
-  * Python Programming (for Data Science)
-  * Programmazione I (Introduction to Programming)
+  description = """
+  """
+  
+ [[experience]]
+  title = "Programmazione I (Introduction to Programming) [2018-2019]"
+  company = "University of Padova"
+  company_url = ""
+  location = "Italy"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """
   """
 
 +++
