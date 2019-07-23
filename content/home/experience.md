@@ -25,8 +25,9 @@ date_format = "Jan 2006"
   date_start = "2017-07-18"
   date_end = ""
   description = """
-  Responsibilities include:
-  Research activities on topics at the intersection of machine learning and computer security. Establishment of a multidisciplinary team focused on adversarial machine learning in collaboration with Ca' Foscari University of Venice, Italy.
+  **Main Goals:**
+  -  Research activities on topics at the intersection of machine learning and computer security. 
+  -  Establishment of a multidisciplinary team focused on adversarial machine learning in collaboration with Ca' Foscari University of Venice, Italy.
   """
 
 [[experience]]
@@ -36,6 +37,12 @@ date_format = "Jan 2006"
   location = "London, UK"
   date_start = "2014-06-02"
   date_end = "2017-07-14"
-  description = """Improve the engagement of users with Gemini, the integrated Yahoo online advertising platform. Promote "high quality" advertisements using measures of post-click satisfaction, which go beyond traditional Click-Through Rate (CTR). Analyse large-scale datasets from distributed computing environments and mine interesting patterns via statistical/machine learning solutions. Design, implement, and test innovative prototypes into production buckets as response to internal challenges, in collaboration with Product and Engineering teams. Delivery results both internally and externally (e.g., research paper submissions to top conferences like SIGIR, KDD, CIKM, RecSys, WSDM, WWW, etc.)"""
+  description = """
+  **Main Goals:**
+  -  Improve the engagement of users with Gemini, the integrated Yahoo online advertising platform. 
+  -  Promote "high quality" advertisements using measures of post-click satisfaction, which go beyond traditional Click-Through Rate (CTR). 
+  -  Analyse large-scale datasets from distributed computing environments and mine interesting patterns via statistical/machine learning solutions. 
+  -  Design, implement, and test innovative prototypes into production buckets as response to internal challenges, in collaboration with Product and Engineering teams. 
+  -  Delivery results both internally and externally (e.g., research paper submissions to top conferences like SIGIR, KDD, CIKM, RecSys, WSDM, WWW, etc.)"""
 
 +++
