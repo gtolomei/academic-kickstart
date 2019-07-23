@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Python Programming [2018-2019 MSc Data Science]"
+  title = "Python Programming (2018-2019) [MSc Data Science]"
   company = "University of Padova"
   company_url = "https://www.math.unipd.it/en/"
   location = "Italy"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   """
   
  [[experience]]
-  title = "Programmazione I [2018-2019 BSc Computer Science]"
+  title = "Programmazione I (2018-2019) [BSc Computer Science]"
   company = "University of Padova"
   company_url = "https://www.math.unipd.it/en/"
   location = "Italy"
