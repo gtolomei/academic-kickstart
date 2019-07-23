@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Padova"
   company_url = ""
   location = "Italy"
-  date_start = "2018-10"
+  date_start = "2018-10-01"
   date_end = ""
   description = """
   Responsibilities include:
