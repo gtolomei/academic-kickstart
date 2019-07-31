@@ -30,8 +30,13 @@ date_format = "Jan 2006"
   A full detailed description of the course is available [here](https://en.didattica.unipd.it/off/2018/LM/SC/SC2377/000ZZ/SCP7078720/N0).
   <br/>
   <div style="text-align: center">
-<a href="https://github.com/gtolomei/2018-19-python-for-datascience/tree/master/lectures/notebooksp">
+<a href="https://github.com/gtolomei/2018-19-python-for-datascience/tree/master/lectures/notebooks">
 <button style="background-color:#a4d61e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,0,0.2)">
+Notebooks
+</button>
+</a>
+  <a href="https://github.com/gtolomei/2018-19-python-for-datascience/tree/master/lectures/slides">
+<button style="background-color:#a4d61e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,1,0.2)">
 Notebooks
 </button>
 </a>
