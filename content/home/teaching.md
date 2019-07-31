@@ -29,6 +29,13 @@ date_format = "Jan 2006"
   The goal of this module is to teach the basics of the Python programming language along with a special focus on Data Science. In particular, students will become familiar with Python packages that are widely used by the community of data scientists and machine learning practicioners, such as ```numpy```, ```scipy```, ```pandas```, ```seaborn```, and ```scikit-learn```, just to name a few.<br/>
   A full detailed description of the course is available [here](https://en.didattica.unipd.it/off/2018/LM/SC/SC2377/000ZZ/SCP7078720/N0).
   """
+  <div style="text-align: center">
+<a href="https://sensr.net/auth/users/sign_up">
+<button style="background-color:#a4d61e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.6em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,0,0.2)">
+Sign up for free!
+</button>
+</a>
+</div>
   
  [[experience]]
   title = "Programmazione I (2018-2019) [BSc Computer Science]"
@@ -44,5 +51,3 @@ date_format = "Jan 2006"
   """
 
 +++
-
-{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
