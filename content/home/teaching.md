@@ -45,6 +45,4 @@ date_format = "Jan 2006"
 
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
