@@ -31,13 +31,13 @@ date_format = "Jan 2006"
   <br/>
   <div style="text-align: center">
 <a href="https://github.com/gtolomei/2018-19-python-for-datascience/tree/master/lectures/notebooks">
-<button style="background-color:#a4d61e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,0,0.2)">
+<button style="background-color:#a4d61e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(254, 132, 14, 1)">
 Notebooks
 </button>
 </a>
   <a href="https://github.com/gtolomei/2018-19-python-for-datascience/tree/master/lectures/slides">
-<button style="background-color:#a4d61e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,1,0.2)">
-Notebooks
+<button style="background-color:#a4d61e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(111, 159, 216, 1)">
+Slides
 </button>
 </a>
 </div>
