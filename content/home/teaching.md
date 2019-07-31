@@ -29,6 +29,9 @@ date_format = "Jan 2006"
   The goal of this module is to teach the basics of the Python programming language along with a special focus on Data Science. In particular, students will become familiar with Python packages that are widely used by the community of data scientists and machine learning practicioners, such as ```numpy```, ```scipy```, ```pandas```, ```seaborn```, and ```scikit-learn```, just to name a few.<br/>
   A full detailed description of the course is available [here](https://en.didattica.unipd.it/off/2018/LM/SC/SC2377/000ZZ/SCP7078720/N0).
   """
+  {{% alert note %}}
+  Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+  {{% /alert %}}
   
  [[experience]]
   title = "Programmazione I (2018-2019) [BSc Computer Science]"
