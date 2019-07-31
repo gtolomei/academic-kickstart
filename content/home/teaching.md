@@ -30,9 +30,7 @@ date_format = "Jan 2006"
   A full detailed description of the course is available [here](https://en.didattica.unipd.it/off/2018/LM/SC/SC2377/000ZZ/SCP7078720/N0).
   """
 
-{{% notice tip %}}
-A tip disclaimer
-{{% /notice %}}
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
   
  [[experience]]
   title = "Programmazione I (2018-2019) [BSc Computer Science]"
