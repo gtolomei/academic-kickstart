@@ -57,24 +57,11 @@ date_format = "Jan 2006"
   company = "University of Padova"
   company_url = "https://www.math.unipd.it/en/"
   location = "Italy"
-  date_start = "2017-07"
-  date_end = "2019-01"
+  date_start = "2017-07-18"
+  date_end = "2019-01-01"
   description = """
   The following is a list of past courses which I cotaught:<br/>
   is a first-year course of the BSc in Computer Science.<br/>
-  The goal of this course is to teach the fundamentals of computer programming using (a subset of) the C++ programming language. Moreover, the course aims also to provide students the ability of writing source code that is formally correct with respect to _pre_- and _post_-conditions.<br/>
-  A full detailed description of the course is available [here](http://informatica.math.unipd.it/laurea/programmazioneen.html).
-  """
-  
-  [[experience]]
-  title = "Programmazione I (2018-2019) [BSc Computer Science]"
-  company = "University of Padova"
-  company_url = "https://www.math.unipd.it/en/"
-  location = "Italy"
-  date_start = "2018-12-03"
-  date_end = "2019-05-27"
-  description = """
-  This is a first-year course of the BSc in Computer Science.<br/>
   The goal of this course is to teach the fundamentals of computer programming using (a subset of) the C++ programming language. Moreover, the course aims also to provide students the ability of writing source code that is formally correct with respect to _pre_- and _post_-conditions.<br/>
   A full detailed description of the course is available [here](http://informatica.math.unipd.it/laurea/programmazioneen.html).
   """
