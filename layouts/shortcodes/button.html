@@ -6,7 +6,7 @@
   <i class="{{$icon}}"></i>
     {{ end }}
   {{ end }}
-  {{ .Inner }}
+  {{ .Inner | markdownify }}
   {{ if and ($icon) (eq $iconposition "right")}}
   <i class="{{$icon}}"></i>
   {{ end }}
