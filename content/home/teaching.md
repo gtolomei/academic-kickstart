@@ -62,5 +62,3 @@ Slides
   """
 
 +++
-
-{{< mybutton "Sign up for free!" "https://sensr.net/auth/users/sign_up" >}}
