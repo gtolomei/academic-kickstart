@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   company = "University of Padova"
   company_url = "https://www.math.unipd.it/en/"
   location = "Italy"
-  date_start = "2017-07-18"
+  date_start = "2016-10-01"
   date_end = "2019-01-01"
   description = """
   The following is a list of past courses which I cotaught:
