@@ -62,5 +62,3 @@ Slides
   """
 
 +++
-
-{{% button href="https://getgrav.org/" icon="fa fa-play" %}}Get Grav with icon{{% /button %}}
