@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = "2019-01-17"
   description = """
   This is a first-year course of the [MSc in Data Science](https://datascience.math.unipd.it/).<br/>
-  More information, including syllabus, class material, and exercises are available below.
-  <p>&nbsp;</p>
+  More information, including syllabus, class material, and exercises are available below.<br/>
+  <br/>
   <div style="text-align: center">
   <a href="https://github.com/gtolomei/python-for-datascience/blob/master/syllabus.md" target="_blank">
   <button style="background-color:#92B558;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
@@ -60,11 +60,10 @@ date_format = "Jan 2006"
   date_start = "2017-07-18"
   date_end = "2019-01-01"
   description = """
-  The following is a list of past courses which I cotaught:<br/>
+  The following is a list of past courses which I cotaught:
   <ul>
-  <li>Programmazione I (Introduction to Computer Programming) [BSc Computer Science]</li>
-  <li>Basi di Dati (Introduction to Databases) [BSc Computer Science]</li>
-  <li>Milk</li>
+  <li>**Programmazione I** (Introduction to Computer Programming) [BSc Computer Science]</li>
+  <li>**Basi di Dati** (Introduction to Databases) [BSc Computer Science]</li>
   </ul>
   """
 
