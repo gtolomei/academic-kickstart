@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   This is a first-year course of the [MSc in Data Science](https://datascience.math.unipd.it/).<br/>
   More information, including syllabus, class material, and exercises are available below.
-  <br/>
+  <p>&nbsp;</p>
   <div style="text-align: center">
   <a href="https://github.com/gtolomei/python-for-datascience/blob/master/syllabus.md" target="_blank">
   <button style="background-color:#92B558;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
@@ -61,9 +61,11 @@ date_format = "Jan 2006"
   date_end = "2019-01-01"
   description = """
   The following is a list of past courses which I cotaught:<br/>
-  is a first-year course of the BSc in Computer Science.<br/>
-  The goal of this course is to teach the fundamentals of computer programming using (a subset of) the C++ programming language. Moreover, the course aims also to provide students the ability of writing source code that is formally correct with respect to _pre_- and _post_-conditions.<br/>
-  A full detailed description of the course is available [here](http://informatica.math.unipd.it/laurea/programmazioneen.html).
+  <ul>
+  <li>Programmazione I (Introduction to Computer Programming) [BSc Computer Science]</li>
+  <li>Basi di Dati (Introduction to Databases) [BSc Computer Science]</li>
+  <li>Milk</li>
+  </ul>
   """
 
 +++
