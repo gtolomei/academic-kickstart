@@ -30,20 +30,25 @@ date_format = "Jan 2006"
   A full detailed description of the course is available [here](https://en.didattica.unipd.it/off/2018/LM/SC/SC2377/000ZZ/SCP7078720/N0).
   <br/>
   <div style="text-align: center">
-<a href="https://github.com/gtolomei/2018-19-python-for-datascience" target="_blank">
-<button style="background-color:#ecdb54;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
-Syllabus
-</button>
-</a>
+  <a href="https://github.com/gtolomei/2018-19-python-for-datascience" target="_blank">
+  <button style="background-color:#ecdb54;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  General Info
+  </button>
+  </a>
+  <a href="https://github.com/gtolomei/2018-19-python-for-datascience" target="_blank">
+  <button style="background-color:#ecdb54;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Syllabus
+  </button>
+  </a>
   <a href="https://github.com/gtolomei/2018-19-python-for-datascience/tree/master/lectures/notebooks" target="_blank">
-<button style="background-color:#fe840e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
-Notebooks
-</button>
-</a>
+  <button style="background-color:#fe840e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Notebooks
+  </button>
+  </a>
   <a href="https://github.com/gtolomei/2018-19-python-for-datascience/tree/master/lectures/slides" target="_blank">
-<button style="background-color:#6f9fd8;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1.2em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
-Slides
-</button>
+  <button style="background-color:#6f9fd8;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Slides
+  </button>
   </a>
 </div>
   """
@@ -59,7 +64,6 @@ Slides
   This is a first-year course of the BSc in Computer Science.<br/>
   The goal of this course is to teach the fundamentals of computer programming using (a subset of) the C++ programming language. Moreover, the course aims also to provide students the ability of writing source code that is formally correct with respect to _pre_- and _post_-conditions.<br/>
   A full detailed description of the course is available [here](http://informatica.math.unipd.it/laurea/programmazioneen.html).
-  {{% mybutton "Sign up for free!" "https://sensr.net/auth/users/sign_up" %}}
   """
 
 +++
