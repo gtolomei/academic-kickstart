@@ -59,6 +59,7 @@ Slides
   This is a first-year course of the BSc in Computer Science.<br/>
   The goal of this course is to teach the fundamentals of computer programming using (a subset of) the C++ programming language. Moreover, the course aims also to provide students the ability of writing source code that is formally correct with respect to _pre_- and _post_-conditions.<br/>
   A full detailed description of the course is available [here](http://informatica.math.unipd.it/laurea/programmazioneen.html).
+  {{% mybutton "Sign up for free!" "https://sensr.net/auth/users/sign_up" %}}
   """
 
 +++
