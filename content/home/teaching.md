@@ -46,6 +46,7 @@ Slides
 </button>
 </a>
 </div>
+<div>{{% button href="https://getgrav.org/" icon="fa fa-play" %}}Get Grav with icon{{% /button %}}</div>
   """
   
  [[experience]]
