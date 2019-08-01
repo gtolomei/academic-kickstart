@@ -61,10 +61,9 @@ date_format = "Jan 2006"
   date_end = "2019-01-01"
   description = """
   The following is a list of past courses which I cotaught:
-  <ul>
-  <li>**Programmazione I** (Introduction to Computer Programming) [BSc Computer Science]</li>
-  <li>**Basi di Dati** (Introduction to Databases) [BSc Computer Science]</li>
-  </ul>
+  
+  - **Programmazione I** (Introduction to Computer Programming) [BSc Computer Science]</li>
+  - **Basi di Dati** (Introduction to Databases) [BSc Computer Science]</li>
   """
 
 +++
