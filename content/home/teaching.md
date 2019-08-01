@@ -45,6 +45,8 @@ Notebooks
 Slides
 </button>
   </a>
+  {{< mybutton "Sign up for free!" "https://sensr.net/auth/users/sign_up" >}}
+  {{% button href="https://getgrav.org/" icon="fa fa-play" %}}Get Grav with icon{{% /button %}}
 </div>
   """
   
