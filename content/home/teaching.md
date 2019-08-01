@@ -49,6 +49,11 @@ date_format = "Jan 2006"
   Slides
   </button>
   </a>
+  <a href="https://github.com/gtolomei/python-for-datascience/tree/master/lectures/slides" target="_blank">
+  <button style="background-color:#C3447A;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Exercises
+  </button>
+  </a>
 </div>
   """
   
