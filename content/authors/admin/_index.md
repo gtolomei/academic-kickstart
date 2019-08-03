@@ -18,12 +18,12 @@ organizations:
   url: "https://www.math.unipd.it/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include *web search*, *(robust) machine learning*, and *computational advertising*.
+bio: My research interests include *web search and mining*, *(robust) machine learning*, and *computational advertising*.
 
 interests:
-- Web Mining
-- NLP
-- Information Retrieval
+- travelling
+- swimming (but I am really into _any_ sport)
+- motorbikes
 
 education:
   courses:
