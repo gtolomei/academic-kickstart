@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Operating Systems (Sistemi Operativi)[BSc Computer Science]"
+  title = "Operating Systems (Sistemi Operativi) [BSc Computer Science]"
   company = "Sapienza University of Rome"
   company_url = "https://www.di.uniroma1.it/en"
   location = "Italy"
