@@ -58,12 +58,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gtolomei@math.unipd.it"
-phone = "+39 049 827 1382"
-address = """Torre Archimede - Room 519 (5th floor)<br/>
-Department of Mathematics - University of Padova<br/>
-Via Trieste 63<br/>
-35121, Padova, Italy"""
+email = "tolomei@di.uniroma1.it"
+phone = "+39 "
+address = """Department of Computer Science<br/>
+Sapienza University of Rome<br/>
+Via Salaria 113<br/>
+00198, Rome, Italy"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
