@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   This is a second-year course of the [BSc in Computer Science](https://www.studiareinformatica.uniroma1.it/laurea).<br/>
-  More information, including syllabus, class material, and exercises are available below.<br/>
+  More information, including syllabus, class material, and exercises are available below (in italian).<br/>
   <br/>
   <div style="text-align: center">
   <a href="https://github.com/gtolomei/operating-systems#Informazioni-Generali" target="_blank">
