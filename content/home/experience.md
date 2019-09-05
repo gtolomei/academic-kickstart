@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Associate Professor"
+  company = "Sapienza University of Rome"
+  company_url = "https://www.di.uniroma1.it/en"
+  location = "Italy"
+  date_start = "2019-09-03"
+  date_end = ""
+  description = """
+  """
+  
+[[experience]]
   title = "Assistant Professor"
   company = "University of Padova"
   company_url = "https://www.math.unipd.it/en/"
   location = "Italy"
   date_start = "2017-07-18"
-  date_end = ""
+  date_end = "2019-09-02"
   description = """
   **Main Goals:**<br/>
   -  Research activities on topics at the intersection of *machine learning* and *computer security*.<br/>
