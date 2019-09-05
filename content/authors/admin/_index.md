@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Computer Science
+role: Associate Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Padova
-  url: "https://www.math.unipd.it/en/"
+- name: Sapienza University of Rome
+  url: "https://www.di.uniroma1.it/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include *web search and mining*, *(robust) machine learning*, and *computational advertising*.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gtolomei@math.unipd.it'  # For a direct email link, use "mailto:your-email@example.com".
+  link: 'mailto:tolomei@di.uniroma1.it'  # For a direct email link, use "mailto:your-email@example.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gtolomei
