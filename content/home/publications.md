@@ -58,8 +58,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true 
   
-  prova prova prova
-  
 [advanced]
  # Custom CSS. 
  css_style = ""
