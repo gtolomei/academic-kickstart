@@ -12,6 +12,6 @@ view: 4
 header:
   caption: ""
   image: ""
-  
-  Prova prova prova
 ---
+
+Prova prova prova
