@@ -1,5 +1,5 @@
 ---
-title: "You must have clicked on this ad by mistake!"
+title: "You Must Have Clicked On This Ad By Mistake!"
 subtitle: "Data-driven identification of accidental clicks on mobile ads with applications to advertiser cost discounting and click-through rate prediction"
 date: 2019-01-01
 publishDate: 2020-01-20T17:19:56.623516Z
