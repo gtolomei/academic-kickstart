@@ -6,7 +6,7 @@ authors: ["Stefano Calzavara", "Gabriele Tolomei", "Andrea Casini", "Michele Bug
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*TWEB*"
+publication: "*ACM TWEB*, Vol. 9(3), 2015, pp. 15:1-15:30"
 url_pdf: "https://doi.org/10.1145/2754933"
 doi: "10.1145/2754933"
 ---
