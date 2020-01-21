@@ -7,7 +7,7 @@ authors: ["Gabriele Tolomei", "Mounia Lalmas", "Ayman Farahat", "Andrew Haines"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Int. J. Data Sci. Anal.*, Vol.7(1), 2019, pp. 53-66"
+publication: "*Int. J. Data Sci. Anal.*, Vol. 7(1), 2019, pp. 53-66"
 url_pdf: "https://doi.org/10.1007/s41060-018-0122-1"
 doi: "10.1007/s41060-018-0122-1"
 ---
