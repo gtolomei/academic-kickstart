@@ -8,6 +8,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Int. J. Data Sci. Anal.*"
+volume: 7
 url_pdf: "https://doi.org/10.1007/s41060-018-0122-1"
 doi: "10.1007/s41060-018-0122-1"
 ---
