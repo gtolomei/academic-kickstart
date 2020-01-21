@@ -6,7 +6,7 @@ authors: ["Domenico Laforenza", "Franco Maria Nardini", "Fabrizio Silvestri", "G
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ERCIM News*"
+publication: "*ERCIM News*, Vol. 2008(74)"
 url_pdf: "http://ercim-news.ercim.eu/spranker-a-discovery-tool-to-rank-service-providers-using-quality-of-experience"
 ---
 
