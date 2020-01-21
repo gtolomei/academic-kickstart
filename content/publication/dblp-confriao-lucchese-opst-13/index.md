@@ -6,7 +6,7 @@ authors: ["Claudio Lucchese", "Salvatore Orlando", "Raffaele Perego", "Fabrizio 
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Open research Areas in Information Retrieval, OAIR '13, Lisbon, Portugal, May 15-17, 2013*, pp. 77-84"
+publication: "*Open research Areas in Information Retrieval, OAIR 2013, Lisbon, Portugal, May 15-17, 2013*, pp. 77-84"
 url_pdf: "http://dl.acm.org/citation.cfm?id=2491768"
 ---
 
