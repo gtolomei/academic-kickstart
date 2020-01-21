@@ -6,7 +6,7 @@ authors: ["Elia Bruni", "Alessio Ferrari", "Norbert Seyff", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Requirements Engineering: Foundation for Software Quality - 18th International Working Conference, REFSQ 2012, Essen, Germany, March 19-22, 2012. Proceedings*"
+publication: "*Requirements Engineering: Foundation for Software Quality - 18th International Working Conference, REFSQ 2012, Essen, Germany, March 19-22, 2012. Proceedings*, pp. 218-224"
 url_pdf: "https://doi.org/10.1007/978-3-642-28714-5_19"
 doi: "10.1007/978-3-642-28714-5_19"
 ---
