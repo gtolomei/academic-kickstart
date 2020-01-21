@@ -6,7 +6,7 @@ authors: ["Mounia Lalmas", "Janette Lehmann", "Guy Shaked", "Fabrizio Silvestri"
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Sydney, NSW, Australia, August 10-13, 2015*"
+publication: "*Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Sydney, NSW, Australia, August 10-13, 2015*, pp. 1929-1938"
 url_pdf: "https://doi.org/10.1145/2783258.2788581"
 doi: "10.1145/2783258.2788581"
 ---
