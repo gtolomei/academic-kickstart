@@ -6,7 +6,7 @@ authors: ["Mauro Conti", "Ankit Gangwal", "Sarada Prasad Gochhayat", "Gabriele T
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2018 IEEE Conference on Communications and Network Security, CNS 2018, Beijing, China, May 30 - June 1, 2018*"
+publication: "*2018 IEEE Conference on Communications and Network Security, CNS 2018, Beijing, China, May 30 - June 1, 2018*, pp. 1-7"
 url_pdf: "https://doi.org/10.1109/CNS.2018.8433122"
 doi: "10.1109/CNS.2018.8433122"
 ---
