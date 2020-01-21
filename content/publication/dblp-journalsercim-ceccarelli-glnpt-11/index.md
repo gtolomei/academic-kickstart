@@ -6,7 +6,7 @@ authors: ["Diego Ceccarelli", "Sergiu Gordea", "Claudio Lucchese", "Franco Maria
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ERCIM News*"
+publication: "*ERCIM News*, Vol. 2019(86)"
 url_pdf: "http://ercim-news.ercim.eu/en86/special/discovering-europeana-users-search-behavior"
 ---
 
