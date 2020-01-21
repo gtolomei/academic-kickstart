@@ -6,7 +6,7 @@ authors: ["Hidayet Aksu", "Leonardo Babun", "Mauro Conti", "Gabriele Tolomei", "
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Communications Magazine*"
+publication: "*IEEE Communications Magazine*, Vol. 56(11), 2018, pp. 138-144"
 url_pdf: "https://doi.org/10.1109/MCOM.2017.1700871"
 doi: "10.1109/MCOM.2017.1700871"
 ---
