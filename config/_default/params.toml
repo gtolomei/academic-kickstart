@@ -59,7 +59,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tolomei@di.uniroma1.it"
-phone = "+39 06 4925 5159 (int. 36159)"
+phone = "+39 06 4925 5159" (int. 36159)
 address = """Department of Computer Science<br/>
 Sapienza University of Rome<br/>
 Building G - II floor - Room G39<br/>
