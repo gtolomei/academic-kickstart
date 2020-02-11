@@ -59,14 +59,15 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tolomei@di.uniroma1.it"
-phone = "+39 06 4991 XXXX"
+phone = "+39 06 4925 5159 (int. 36159)"
 address = """Department of Computer Science<br/>
 Sapienza University of Rome<br/>
-Via Salaria 113<br/>
-00198, Rome, Italy"""
+Building G - II floor - Room G39<br/>
+Viale Regina Elena, 295<br/>
+00161, Rome, Italy"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Thursday 10:00 to 12:00"""
+office_hours = """Tuesday 14:00 to 16:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
