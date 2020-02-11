@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tolomei@di.uniroma1.it"
 phone = "+39 06 4925 5159"
-phone (int.) = "36159"
+phone = "36159"
 address = """Department of Computer Science<br/>
 Sapienza University of Rome<br/>
 Building G - II floor - Room G39<br/>
@@ -98,10 +98,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
-map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+map = 1
+map_api_key = "AIzaSyA_HbTap3x9yxjEnKOGKudx2NgG8XBvB1w"
+latitude = "41.904980"
+longitude = "12.517332"
 zoom = 15
 
 ############################
