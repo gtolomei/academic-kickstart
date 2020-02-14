@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-02-25"
   date_end = ""
   description = """
-  This is a second-year course of the [MSc in Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).<br/>
+  This is a first-year course of the [MSc in Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).<br/>
   More information, including syllabus and class material are available below (in english).<br/>
   <br/>
   <div style="text-align: center">
