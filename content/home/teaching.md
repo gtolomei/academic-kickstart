@@ -18,15 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Big Data Computing [MSc Computer Science]"
+  company = "Sapienza University of Rome"
+  company_url = "https://www.di.uniroma1.it/en"
+  location = "Italy"
+  date_start = "2020-02-25"
+  date_end = ""
+  description = """
+  This is a second-year course of the [MSc in Computer Science](https://www.studiareinformatica.uniroma1.it/master-course-computer-science).<br/>
+  More information, including syllabus and class material are available below (in english).<br/>
+  <br/>
+  <div style="text-align: center">
+  <a href="https://github.com/gtolomei/big-data-computing#General_Information" target="_blank">
+  <button style="background-color:#92B558;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  General Info
+  </button>
+  </a>
+  <a href="https://github.com/gtolomei/big-data-computing#Syllabus" target="_blank">
+  <button style="background-color:#ecdb54;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Syllabus
+  </button>
+  </a>
+  <a href="https://github.com/gtolomei/big-data-computing/tree/master/lectures/slides" target="_blank">
+  <button style="background-color:#6f9fd8;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Slides
+  </button>
+  </a>
+  <a href="https://github.com/gtolomei/big-data-computing/tree/master/exercises" target="_blank">
+  <button style="background-color:#dd6e8e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Exercises
+  </button>
+  </a>
+</div>
+"""
+
+[[experience]]
   title = "Operating Systems (Sistemi Operativi) [BSc Computer Science]"
   company = "Sapienza University of Rome"
   company_url = "https://www.di.uniroma1.it/en"
   location = "Italy"
-  date_start = "2019-08-01"
+  date_start = "2019-09-23"
   date_end = ""
   description = """
   This is a second-year course of the [BSc in Computer Science](https://www.studiareinformatica.uniroma1.it/laurea).<br/>
-  More information, including syllabus, class material, and exercises are available below (in italian).<br/>
+  More information, including syllabus and class material are available below (some of them in italian).<br/>
   <br/>
   <div style="text-align: center">
   <a href="https://github.com/gtolomei/operating-systems#Informazioni-Generali" target="_blank">
