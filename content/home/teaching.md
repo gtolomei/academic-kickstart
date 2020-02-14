@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   More information, including syllabus and class material are available below (in english).<br/>
   <br/>
   <div style="text-align: center">
-  <a href="https://github.com/gtolomei/big-data-computing#General_Information" target="_blank">
+  <a href="https://github.com/gtolomei/big-data-computing#General-Information" target="_blank">
   <button style="background-color:#92B558;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
   General Info
   </button>
