@@ -14,7 +14,9 @@ header:
   image: ""
 ---
 
-Want to pursue a research career in Data Science? Please, check out the [call for application](https://www.uniroma1.it/en/pagina/phd-programmes) to the 36th Cycle of the PhD Program in Data Science at Sapienza University.
+<center>Want to pursue a research career in Data Science?</center>
+
+Please, check out the [call for application](https://www.uniroma1.it/en/pagina/phd-programmes) to the 36th Cycle of the PhD Program in Data Science at Sapienza University.
 
 This year, **10 positions** are available (8 of which with scholarship): 4 scholarships are funded by Sapienza and the remaining 4 are funded by specific research projects.
 
