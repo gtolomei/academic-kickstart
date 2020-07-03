@@ -22,5 +22,6 @@ This year, **10 positions** are available (8 of which with scholarship): 4 schol
 
 Any further information about the PhD in Data Science can be found at the following links:
 
+* https://phd.uniroma1.it/web/DATA-SCIENCE_nD3565_EN.aspx
 * https://phd.uniroma1.it/web/concorso36.aspx?s=&i=3565&m=&l=EN&p=&a= 
 * http://dottoratods.diag.uniroma1.it/admission
