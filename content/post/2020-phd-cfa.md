@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "PhD in Data Science at Sapienza"
-  image: "phd-datascience-sapienza"
+  image: "phd-datascience-sapienza.png"
 ---
 
 <center><b>Want to pursue a research career in Data Science?</b></center>
