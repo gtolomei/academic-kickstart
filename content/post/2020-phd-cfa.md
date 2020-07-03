@@ -21,5 +21,5 @@ Please, check out the [call for application](https://www.uniroma1.it/en/pagina/p
 This year, **10 positions** are available (8 of which with scholarship): 4 scholarships are funded by Sapienza and the remaining 4 are funded by specific research projects.
 
 Any further information about the PhD in Data Science can be found at the following links: 
--  https://phd.uniroma1.it/web/concorso36.aspx?s=&i=3565&m=&l=EN&p=&a= 
--  http://dottoratods.diag.uniroma1.it/admission
+  -  https://phd.uniroma1.it/web/concorso36.aspx?s=&i=3565&m=&l=EN&p=&a= 
+  -  http://dottoratods.diag.uniroma1.it/admission
