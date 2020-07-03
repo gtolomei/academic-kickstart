@@ -1,6 +1,6 @@
 ---
-title: 2020 Call for Application to the PhD in Data Science at Sapienza University
-summary:
+title: PhD in Data Science
+summary: 2020 Call for Application to the PhD in Data Science at Sapienza University
 date: "2020-07-02"
 
 reading_time: false  # Show estimated reading time?
@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-<center>Want to pursue a research career in Data Science?</center>
+<center><b>Want to pursue a research career in Data Science?</b></center>
 
 Please, check out the [call for application](https://www.uniroma1.it/en/pagina/phd-programmes) to the 36th Cycle of the PhD Program in Data Science at Sapienza University.
 
