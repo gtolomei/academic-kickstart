@@ -1,7 +1,7 @@
 ---
-title: "PhD in Data Science: 2020 Call for Application 2"
+title: "PhD in Data Science: 2020 Call for Application"
 summary: The 2020 Call for Application to the PhD in Data Science at Sapienza University is open!
-date: "2020-07-13"
+date: "2020-07-03"
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
