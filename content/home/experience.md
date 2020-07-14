@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Italy"
   date_start = "2019-09-03"
   date_end = ""
-  description = description = """
+  description = """
   **Main Goals:**<br/>
   -  Research activities on topics at the intersection of *machine learning* and *computer security*.<br/>
   -  Establishment of a multidisciplinary team focused on *adversarial machine learning* in collaboration with University of Padova and Ca' Foscari University of Venice, Italy.
