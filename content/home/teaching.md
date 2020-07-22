@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "<a href='https://github.com/gtolomei/operating-systems' target='_blank' style='background-color:#7788990'>Operating Systems (Sistemi Operativi) [BSc Computer Science]</a>"
+  title = "<a href='https://github.com/gtolomei/operating-systems' target='_blank' style='color:#7788990'>Operating Systems (Sistemi Operativi) [BSc Computer Science]</a>"
   company = "Sapienza University of Rome"
   company_url = "https://www.di.uniroma1.it/en"
   location = "Italy"
