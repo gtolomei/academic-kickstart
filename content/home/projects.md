@@ -8,6 +8,8 @@ weight = 30  # Order that this section will appear.
 title = "Projects"
 subtitle = ""
 
+provaprovaprova
+
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
@@ -66,7 +68,6 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true
-  HERE
   
 [advanced]
  # Custom CSS. 
