@@ -22,7 +22,7 @@ bio: My research interests include *web search and mining*, *(robust) machine le
 
 interests:
 - travelling
-- swimming & skiing (but I am really into _any_ sport)
+- swimming & skiing (_any_ sport, actually!)
 - motorbike riding
 
 education:
