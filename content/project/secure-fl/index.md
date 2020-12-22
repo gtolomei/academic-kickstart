@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Secure Federated Learning"
-summary: "Federated Learning (FL) is the emerging paradigm for training machine learning (ML) models in a _distributed_ and _privacy-preserving_ way. However, FL has proven vulnerable to various _adversarial attacks_ - i.e., mostly, data poisoning and model poisoning attacks - which induce model prediction errors. The goal of this project is twofold: _(i)_ study the impact of those attacks to real-world FL environments and _(ii)_ provide countermeasures to alleviate or even cancel out adversarial attacks, thereby making FL more robust to the presence of malicious attackers."
+summary: ""
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Federated Learning (FL) is the emerging paradigm for training machine learning (ML) models in a _distributed_ and _privacy-preserving_ way. However, FL has proven vulnerable to various _adversarial attacks_ - i.e., mostly, data poisoning and model poisoning attacks - which induce model prediction errors. The goal of this project is twofold: _(i)_ study the impact of those attacks to real-world FL environments and _(ii)_ provide countermeasures to alleviate or even cancel out adversarial attacks, thereby making FL more robust to the presence of malicious attackers.
