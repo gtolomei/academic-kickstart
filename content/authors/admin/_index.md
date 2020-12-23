@@ -75,5 +75,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Gabriele Tolomei is Associate Professor of Computer Science at Sapienza University of Rome, Italy. His research interests include *web search and mining*, *(robust) machine learning*, and *computational advertising*.
+I am Associate Professor of Computer Science at Sapienza University of Rome, Italy. My research interests include *web search and mining*, *(robust) machine learning*, and *computational advertising*.
