@@ -40,3 +40,5 @@ url_video: ""
 slides: ""
 ---
 Federated Learning (FL) is the emerging paradigm for training machine learning (ML) models in a _distributed_ and _privacy-preserving_ way. However, FL has proven vulnerable to various _adversarial attacks_ - i.e., mostly, data poisoning and model poisoning attacks - which induce model prediction errors. The goal of this project is twofold: _(i)_ studying the impact of those attacks to real-world FL environments and _(ii)_ providing countermeasures to alleviate or even cancel out adversarial attacks, thereby making FL more robust to the presence of malicious attackers.
+
+
