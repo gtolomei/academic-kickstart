@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-02-24"
   date_end = ""
   description = """
-  This is a first-year course of the [MSc in Computer Science](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-applicata-magistrale).<br/>
+  This is a first-year course of the [MSc in Applied Mathematics](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-applicata-magistrale).<br/>
   More information, including syllabus and class material are available below (in english).<br/>
   <br/>
   <div style="text-align: center">
