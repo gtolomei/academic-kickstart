@@ -18,6 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "<a href='https://github.com/gtolomei/theory-of-algorithms' target='_blank' style='color:grey'>Theory of Algorithms [MSc Applied Mathematics]</a>"
+  company = "Sapienza University of Rome"
+  company_url = "https://www.mat.uniroma1.it"
+  location = "Italy"
+  date_start = "2021-02-24"
+  date_end = ""
+  description = """
+  This is a first-year course of the [MSc in Computer Science](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-applicata-magistrale).<br/>
+  More information, including syllabus and class material are available below (in english).<br/>
+  <br/>
+  <div style="text-align: center">
+  <a href="https://github.com/gtolomei/theory-of-algorithms#General-Information" target="_blank">
+  <button style="background-color:#92B558;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  General Info
+  </button>
+  </a>
+  <a href="https://github.com/gtolomei/theory-of-algorithms#Syllabus" target="_blank">
+  <button style="background-color:#ecdb54;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Syllabus
+  </button>
+  </a>
+  <a href="https://github.com/gtolomei/theory-of-algorithms/tree/main/slides" target="_blank">
+  <button style="background-color:#6f9fd8;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Slides
+  </button>
+  </a>
+<!--   <a href="https://github.com/gtolomei/theory-of-algorithms/tree/master/notebooks" target="_blank">
+  <button style="background-color:#fe840e;margin-top:6px;margin-bottom:16px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0, 0, 0, 0.2)">
+  Notebooks
+  </button>
+  </a> -->
+</div>
+"""
+
+[[experience]]
   title = "<a href='https://github.com/gtolomei/big-data-computing' target='_blank' style='color:grey'>Big Data Computing [MSc Computer Science]</a>"
   company = "Sapienza University of Rome"
   company_url = "https://www.di.uniroma1.it/en"
