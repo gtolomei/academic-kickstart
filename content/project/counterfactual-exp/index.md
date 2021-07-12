@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The excitement for the astonishing performance obtained by machine learning (ML) systems in several domains, such as natural language processing and computer vision, has somehow overshadow the need for _really_ understanding and explaining the rationale behind ML model predictions.
-The idea of _counterfactual_ (CF) explanations is to reveal the rationale behind output given by predictive models on individual inputs in the form: "_If_ **A** _had been different,_ **B** _would not have occurred_". 
-CF explanations are based on CF examples: slightly modified versions of an input sample (yet "close" to it) that result in an alternative output response from the predictive model.
+The idea of _counterfactual_ (CF) explanations is to reveal the rationale behind the outputs provided by machine learning (ML) predictive models in response to individual inputs in the form: "_If_ **A** _had been different,_ **B** _would not have occurred_". 
+CF explanations are based on CF examples: slightly modified versions of an input sample (yet "close" to it) that result in an alternative output response from the predictive model. 
+Generating such CF examples efficiently is challenging: methods based on _reinforcement learning_ (RL) techniques are currently under investigation.
