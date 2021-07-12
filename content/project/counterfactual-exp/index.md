@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Counterfactual Exp"
+title: "Counterfactual Explanations"
 summary: ""
 authors: []
 tags: []
@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+The excitement for the astonishing performance obtained by machine learning (ML) systems in several domains, such as natural language processing and computer vision, has somehow overshadow the need for _really_ understanding the rationale behind ML model predictions.
+Conversely, the demand for explainability of ML models has become prominent, especially in domains where human-to-human relationships still play a significant role, e.g., a banker should be able to tell a customer why their mortgage application has been denied by the bank's ML-powered decision support system.
+The idea of _counterfactual_ (CF) explanations is to reveal the rationale behind output given by predictive models on individual inputs in the form: "_If_ A _had been different,_ B _would not have occurred_". 
+CF explanations are based on CF examples: slightly modified versions of an input sample (yet "close" to it) that result in an alternative output response from the predictive model.
