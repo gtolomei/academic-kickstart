@@ -11,12 +11,12 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Researchers
+    - Research Team Leader
 design:
   # Show user's social networking links? (true/false)
-  show_social: false
+  show_social: true
   # Show user's interests? (true/false)
-  show_interests: true
+  show_interests: false
   # Show user's role?
   show_role: true
   # Show user's organizations/affiliations?
