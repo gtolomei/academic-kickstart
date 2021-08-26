@@ -7,6 +7,12 @@ title: HERO-ML Research Group
 subtitle:
 weight: 30  # section position on page
 
+I am very happy to announce that the <b>H</b>uman-<b>E</b>xplainable and <b>RO</b>bust Machine Learning (<b>HERO-ML</b>) Research Group was officially launched today, August 26, 2021.
+
+The research mission of HERO-ML is to make next-generation ML and AI systems more **understandable** to humans as well as **resilient** to possible adversarial attacks.
+
+Are you interested to join the team? Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or visit www.hero-ml.com for more information about our research projects and opportunities.
+
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
