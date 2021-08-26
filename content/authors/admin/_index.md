@@ -75,4 +75,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My current research interests are _**H**uman-**E**xplainable and **RO**bust Machine Learning_ (please, see HERO-ML Research Group). In addition, I am also fascinated by topics related to *Web Search and Mining* and *Computational Advertising*.
+My current research interests are _**H**uman-**E**xplainable and **RO**bust Machine Learning_ (please, have a look at the HERO-ML Research Group). In addition, I am also fascinated by topics related to *Web Search and Mining* and *Computational Advertising*.
