@@ -11,4 +11,4 @@ design:
   columns: '1'
 ---
 
-Welcome to the **H**uman-**E**xplainable and **RO**bust Machine Learning Research Group!
+<center>Welcome to the **H**uman-**E**xplainable and **RO**bust Machine Learning Research Group!</center>
