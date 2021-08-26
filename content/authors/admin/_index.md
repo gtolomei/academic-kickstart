@@ -18,7 +18,7 @@ organizations:
   url: "https://www.di.uniroma1.it/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests are _**H**uman-**E**xplainable and **RO**bust Machine Learning_ (please, see HERO-ML Research Group). In addition, I am also fascinated by topics related to *Web Search and Mining* and *Computational Advertising*.
+bio:
 
 interests:
 - travelling
@@ -75,4 +75,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am Associate Professor of Computer Science at Sapienza University of Rome, Italy. My research interests include *web search and mining*, *(robust) machine learning*, and *computational advertising*.
+My current research interests are _**H**uman-**E**xplainable and **RO**bust Machine Learning_ (please, see HERO-ML Research Group). In addition, I am also fascinated by topics related to *Web Search and Mining* and *Computational Advertising*.
