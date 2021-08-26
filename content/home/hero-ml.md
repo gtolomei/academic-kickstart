@@ -26,4 +26,4 @@ I am very happy to announce that the <b>H</b>uman-<b>E</b>xplainable and <b>RO</
 
 The research mission of HERO-ML is to make next-generation ML and AI systems more **understandable** to humans as well as **resilient** to possible adversarial attacks.
 
-Are you interested to join the team? Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or visit www.hero-ml.com for more information about our research projects and opportunities.
+Are you interested to join the team? Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> for more information about research projects and opportunities.
