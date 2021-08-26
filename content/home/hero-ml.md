@@ -13,7 +13,7 @@ design:
 
 <center>
   I am very happy to announce that the <b>H</b>uman-<b>E</b>xplainable and <b>RO</b>bust Machine Learning (<b>HERO-ML</b>) Research Group is officially open, as of today, August 26, 2021.<br>
-  The mission of HERO-ML is to make next-generation ML and AI systems more understandable to humans as well as resilient to possible adversarial attacks.
+  The research mission of HERO-ML is to make next-generation ML and AI systems more understandable to humans as well as resilient to possible adversarial attacks.
 </center>
 
 
