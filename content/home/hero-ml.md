@@ -1,3 +1,4 @@
+---
 widget: people
 headless: true  # This file represents a page section.
 
@@ -20,3 +21,4 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
+---
