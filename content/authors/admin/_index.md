@@ -72,7 +72,6 @@ email: "gabriele.tolomei@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- Research Team Leader
 ---
 My current research interests are _**H**uman-**E**xplainable and **RO**bust Machine Learning_ (see [HERO-ML Research Group](/#hero-ml)). In addition, I am also fascinated by topics related to *Web Search and Mining* and *Computational Advertising*.
