@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: My New Section
+title: HERO-ML Research Group
 subtitle:
 weight: 30  # section position on page
 design:
@@ -11,4 +11,4 @@ design:
   columns: '1'
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
+Welcome to the **H**uman-**E**xplainable and **RO**bust Machine Learning Research Group!
