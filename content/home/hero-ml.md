@@ -28,5 +28,5 @@ The research mission of HERO-ML Lab is to make next-generation ML and AI systems
 as well as **resilient** to adversarial attacks.
 
 Are you interested to join the team?  
-Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or visit the [website](https://www.hero-ml.it/) (currently under construction!) for more information about past and ongoing research projects, and Bachelor/Master/Ph.D. thesis opportunities with the lab.  
+Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or visit <a href="https://www.hero-ml.it/" target="blank_">https://www.hero-ml.it</a> (currently under construction!) for more information about past and ongoing research projects, and Bachelor/Master/Ph.D. thesis opportunities with the lab.  
 In the meantime, stay tuned and follow the official Twitter account <a href="https://twitter.com/hero_ml_lab">@hero_ml_lab</a> to keep you always up to date!
