@@ -26,4 +26,4 @@ I am happy to announce that the **H**uman-**E**xplainable and **RO**bust **M**ac
 
 The research mission of HERO-ML Lab is to make next-generation ML and AI systems more **understandable** to humans as well as **resilient** to adversarial attacks.
 
-Are you interested to join the team? Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> for more information about research projects and opportunities.
+Are you interested to join the team? Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or visit the website (TBA soon!) for more information about past and ongoing research projects and opportunities with the lab. In the meantime, follow the official Twitter account <a href="https://twitter.com/hero_ml_lab">@hero_ml_lab</a> to keep you up to date!
