@@ -14,9 +14,9 @@ comments: false  # Show comments?
 #  image: "hero-ml.png"
 ---
 
-<center><b>HERO-ML Lab</b></center>
+<center><b>HERO-ML Lab is Open!</b></center>
 
-I am happy to announce that the **H**uman-**E**xplainable and **RO**bust Machine Learning (**HERO-ML**) Lab is officially was launched as of August 26, 2021.
+I am happy to announce that the **H**uman-**E**xplainable and **RO**bust Machine Learning (**HERO-ML**) Lab was officially launched as of August 26, 2021.
 
 The research mission of HERO-ML Lab is to make next-generation ML and AI systems more **understandable** to humans
 as well as **resilient** to adversarial attacks.
