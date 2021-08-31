@@ -12,36 +12,36 @@
   name = "News"
   url = "#news"
   weight = 20
-  
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
 
 [[main]]
   name = "HERO-ML Lab"
   url = "#hero-ml"
   weight = 30
+  
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 50
+  weight = 60
 
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
-#  weight = 60
+#  weight = 70
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
