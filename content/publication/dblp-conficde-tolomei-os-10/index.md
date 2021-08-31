@@ -1,7 +1,7 @@
 ---
 title: "Towards a task-based search and recommender systems"
 date: 2010-01-01
-publishDate: 2020-09-24T16:24:10.570603Z
+publishDate: 2021-08-31T10:07:41.529940Z
 authors: ["Gabriele Tolomei", "Salvatore Orlando", "Fabrizio Silvestri"]
 publication_types: ["1"]
 abstract: ""

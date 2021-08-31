@@ -1,7 +1,7 @@
 ---
 title: "Learning to Rank User Queries to Detect Search Tasks"
 date: 2016-01-01
-publishDate: 2020-09-24T16:24:10.555690Z
+publishDate: 2021-08-31T10:07:41.520689Z
 authors: ["Claudio Lucchese", "Franco Maria Nardini", "Salvatore Orlando", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

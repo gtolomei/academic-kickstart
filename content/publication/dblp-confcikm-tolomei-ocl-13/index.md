@@ -1,7 +1,7 @@
 ---
 title: "Twitter anticipates bursts of requests for Wikipedia articles"
 date: 2013-01-01
-publishDate: 2020-09-24T16:24:10.559981Z
+publishDate: 2021-08-31T10:07:41.523785Z
 authors: ["Gabriele Tolomei", "Salvatore Orlando", "Diego Ceccarelli", "Claudio Lucchese"]
 publication_types: ["1"]
 abstract: ""

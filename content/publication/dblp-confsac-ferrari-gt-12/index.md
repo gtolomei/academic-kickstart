@@ -1,7 +1,7 @@
 ---
 title: "A clustering-based approach for discovering flaws in requirements specifications"
 date: 2012-01-01
-publishDate: 2020-09-24T16:24:10.565757Z
+publishDate: 2021-08-31T10:07:41.527068Z
 authors: ["Alessio Ferrari", "Stefania Gnesi", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

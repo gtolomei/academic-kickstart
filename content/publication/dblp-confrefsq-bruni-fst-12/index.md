@@ -1,7 +1,7 @@
 ---
 title: "Automatic Analysis of Multimodal Requirements: A Research Preview"
 date: 2012-01-01
-publishDate: 2020-09-24T16:24:10.564949Z
+publishDate: 2021-08-31T10:07:41.526563Z
 authors: ["Elia Bruni", "Alessio Ferrari", "Norbert Seyff", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

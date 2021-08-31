@@ -1,7 +1,7 @@
 ---
 title: "Mitch: A Machine Learning Approach to the Black-Box Detection of CSRF Vulnerabilities"
 date: 2019-01-01
-publishDate: 2020-09-24T16:24:10.552308Z
+publishDate: 2021-08-31T10:07:41.516569Z
 authors: ["Stefano Calzavara", "Mauro Conti", "Riccardo Focardi", "Alvise Rabitti", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

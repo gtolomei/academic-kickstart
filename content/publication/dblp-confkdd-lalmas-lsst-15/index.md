@@ -1,7 +1,7 @@
 ---
 title: "Promoting Positive Post-Click Experience for In-Stream Yahoo Gemini Users"
 date: 2015-01-01
-publishDate: 2020-09-24T16:24:10.557276Z
+publishDate: 2021-08-31T10:07:41.521810Z
 authors: ["Mounia Lalmas", "Janette Lehmann", "Guy Shaked", "Fabrizio Silvestri", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

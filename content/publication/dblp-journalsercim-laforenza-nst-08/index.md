@@ -1,7 +1,7 @@
 ---
 title: "SPRANKER: A Discovery Tool to Rank Service Providers Using Quality of Experience"
 date: 2008-01-01
-publishDate: 2020-09-24T16:24:10.572830Z
+publishDate: 2021-08-31T10:07:41.531581Z
 authors: ["Domenico Laforenza", "Franco Maria Nardini", "Fabrizio Silvestri", "Gabriele Tolomei"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Treant: training evasion-aware decision trees"
 date: 2020-01-01
-publishDate: 2020-09-24T16:24:10.542793Z
+publishDate: 2021-08-31T10:07:41.513988Z
 authors: ["Stefano Calzavara", "Claudio Lucchese", "Gabriele Tolomei", "Seyum Assefa Abebe", "Salvatore Orlando"]
 publication_types: ["2"]
 abstract: ""

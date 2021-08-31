@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Web Vulnerability Detection: The Case of Cross-Site Request Forgery"
 date: 2020-01-01
-publishDate: 2020-09-24T16:24:10.543768Z
+publishDate: 2021-08-31T10:07:41.514586Z
 authors: ["Stefano Calzavara", "Mauro Conti", "Riccardo Focardi", "Alvise Rabitti", "Gabriele Tolomei"]
 publication_types: ["2"]
 abstract: ""

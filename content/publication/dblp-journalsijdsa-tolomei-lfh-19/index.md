@@ -1,7 +1,7 @@
 ---
 title: "You must have clicked on this ad by mistake! Data-driven identification of accidental clicks on mobile ads with applications to advertiser cost discounting and click-through rate prediction"
 date: 2019-01-01
-publishDate: 2020-09-24T16:24:10.548645Z
+publishDate: 2021-08-31T10:07:41.515200Z
 authors: ["Gabriele Tolomei", "Mounia Lalmas", "Ayman Farahat", "Andrew Haines"]
 publication_types: ["2"]
 abstract: ""

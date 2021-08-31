@@ -1,7 +1,7 @@
 ---
 title: "Trending Topics on Twitter Improve the Prediction of Google Hot Queries"
 date: 2013-01-01
-publishDate: 2020-09-24T16:24:10.563289Z
+publishDate: 2021-08-31T10:07:41.525470Z
 authors: ["Federica Giummolè", "Salvatore Orlando", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

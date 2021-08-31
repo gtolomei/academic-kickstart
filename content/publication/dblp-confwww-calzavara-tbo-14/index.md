@@ -1,7 +1,7 @@
 ---
 title: "Quite a mess in my cookie jar!: leveraging machine learning to protect web authentication"
 date: 2014-01-01
-publishDate: 2020-09-24T16:24:10.558228Z
+publishDate: 2021-08-31T10:07:41.522452Z
 authors: ["Stefano Calzavara", "Gabriele Tolomei", "Michele Bugliesi", "Salvatore Orlando"]
 publication_types: ["1"]
 abstract: ""

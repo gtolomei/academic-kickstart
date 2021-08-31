@@ -1,7 +1,7 @@
 ---
 title: "An open standard solution for domotic interoperability"
 date: 2006-01-01
-publishDate: 2020-09-24T16:24:10.573708Z
+publishDate: 2021-08-31T10:07:41.532090Z
 authors: ["Vittorio Miori", "Luca Tarrini", "Maurizio Manca", "Gabriele Tolomei"]
 publication_types: ["2"]
 abstract: ""

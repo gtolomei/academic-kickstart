@@ -1,7 +1,7 @@
 ---
 title: "Identifying task-based sessions in search engine query logs"
 date: 2011-01-01
-publishDate: 2020-09-24T16:24:10.567507Z
+publishDate: 2021-08-31T10:07:41.528203Z
 authors: ["Claudio Lucchese", "Salvatore Orlando", "Raffaele Perego", "Fabrizio Silvestri", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

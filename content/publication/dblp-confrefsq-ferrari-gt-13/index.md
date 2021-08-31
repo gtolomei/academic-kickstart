@@ -1,7 +1,7 @@
 ---
 title: "Using Clustering to Improve the Structure of Natural Language Requirements Documents"
 date: 2013-01-01
-publishDate: 2020-09-24T16:24:10.560755Z
+publishDate: 2021-08-31T10:07:41.524375Z
 authors: ["Alessio Ferrari", "Stefania Gnesi", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""

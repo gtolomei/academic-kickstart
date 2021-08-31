@@ -1,7 +1,7 @@
 ---
 title: "Challenges in designing an interest-based distributed aggregation of users in P2P systems"
 date: 2009-01-01
-publishDate: 2020-09-24T16:24:10.571375Z
+publishDate: 2021-08-31T10:07:41.530556Z
 authors: ["Matteo Mordacchini", "Patrizio Dazzi", "Gabriele Tolomei", "Ranieri Baraglia", "Fabrizio Silvestri", "Salvatore Orlando"]
 publication_types: ["1"]
 abstract: ""

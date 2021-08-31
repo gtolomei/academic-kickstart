@@ -1,7 +1,7 @@
 ---
 title: "SEED: a framework for extracting social events from press news"
 date: 2013-01-01
-publishDate: 2020-09-24T16:24:10.564130Z
+publishDate: 2021-08-31T10:07:41.526017Z
 authors: ["Salvatore Orlando", "Francesco Pizzolon", "Gabriele Tolomei"]
 publication_types: ["1"]
 abstract: ""
