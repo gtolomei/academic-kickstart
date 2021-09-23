@@ -23,8 +23,8 @@ design:
   show_organizations: true
 ---
 
-<p style="text-align:center;">
-  <img src="/media/hercolelab_circ.jpg" alt="HercoleLab" width="150" height="150">
+<p align="center">
+  <img width="140" height="140" src="/media/hercolelab_circ.jpg" alt="HercoleLab">
 </p>
 
 I am happy to announce that the **H**uman-**E**xplainable, **R**obust, and **CO**llaborative **LE**arning (**HERCOLE**) Lab was officially launched today, August 26, 2021.
