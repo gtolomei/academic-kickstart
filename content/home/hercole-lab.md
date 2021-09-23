@@ -22,6 +22,8 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 ---
+<img src="static/media/hercolelab_circ.jpg" alt="HercoleLab" width="100" height="100">
+
 I am happy to announce that the **H**uman-**E**xplainable, **R**obust, and **CO**llaborative **LE**arning (**HERCOLE**) Lab was officially launched today, August 26, 2021.
 
 The research mission of the HERCOLE Lab is to make next-generation ML and AI systems more **understandable** to humans, **resilient** to adversarial attacks, and **decentralized** to edge devices.
