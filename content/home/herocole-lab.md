@@ -28,4 +28,4 @@ The research mission of the HERCOLE Lab is to make next-generation ML and AI sys
 
 Are you interested to join the team?  
 Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or visit <a href="https://hercolelab.github.io/" target="blank_">https://hercolelab.github.io/</a> (currently under construction!) for more information about past and ongoing research projects, and Bachelor/Master/Ph.D. thesis opportunities with the lab.  
-In the meantime, stay tuned and follow the official Twitter account <a href="https://twitter.com/HercoleLab">@HercoleLab</a> to keep you always up to date!
+In the meantime, stay tuned and follow the official Twitter account <a href="https://twitter.com/HercoleLab" target="_blank">@HercoleLab</a> to keep you always up to date!
