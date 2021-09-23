@@ -22,7 +22,9 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 ---
-<img src="static/media/hercolelab_circ.jpg" alt="HercoleLab" width="100" height="100">
+<p style="text-align:center;">
+  <img src="../../static/media/hercolelab_circ.jpg" alt="HercoleLab" width="100" height="100">
+</p>
 
 I am happy to announce that the **H**uman-**E**xplainable, **R**obust, and **CO**llaborative **LE**arning (**HERCOLE**) Lab was officially launched today, August 26, 2021.
 
