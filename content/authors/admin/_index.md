@@ -74,4 +74,4 @@ email: "gabriele.tolomei@gmail.com"
 user_groups:
 - Lab Head
 ---
-My current research interests are in the area of _**H**uman-**E**xplainable and **RO**bust Machine Learning_ (see [HERO-ML Lab](/#hero-ml)). In addition, I am also fascinated by topics related to *Web Search and Mining* and *Computational Advertising*.
+My current research interests are in the area of _**H**uman-**E**xplainable, **R**obust, and **CO**llaborative **LE**arning_ (see [HERCOLE Lab](/#hercole-lab)). In addition, I am also fascinated by topics related to *Web Search and Mining* and *Computational Advertising*.
