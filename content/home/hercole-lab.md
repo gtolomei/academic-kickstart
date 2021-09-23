@@ -22,6 +22,7 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 ---
+
 <p style="text-align:center;">
   <img src="../../static/media/hercolelab_circ.jpg" alt="HercoleLab" width="100" height="100">
 </p>
