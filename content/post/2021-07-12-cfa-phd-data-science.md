@@ -25,3 +25,5 @@ Any further information about the PhD in Data Science can be found at the follow
 * https://phd.uniroma1.it/web/DATA-SCIENCE_nD3565_EN.aspx
 * https://phd.uniroma1.it/web/concorso37.aspx?s=&i=3565&m=&l=EN&p=&a= 
 * http://dottoratods.diag.uniroma1.it/admission
+
+**The deadline for submitting your application is October, 27 2021, at 2 p.m. CEST time **
