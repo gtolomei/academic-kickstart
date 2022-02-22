@@ -24,7 +24,7 @@ design:
 ---
 
 <p align="center">
-  <img width="140" height="140" src="/media/hercolelab_circ.jpg" alt="HercoleLab">
+  <img width="140" height="140" src="/media/hercolelab-nobg.png" alt="HercoleLab">
 </p>
 
 I am happy to announce that the **H**uman-**E**xplainable, **R**obust, and **CO**llaborative **LE**arning (**HERCOLE**) Lab was officially launched today, August 26, 2021.
