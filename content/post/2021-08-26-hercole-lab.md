@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 #header:
 #  caption: "HERCOLE Lab"
-#  image: "hercolelab_circ.jpg"
+#  image: "hercolelab-nobg.png"
 ---
 
 <center><b>HERCOLE Lab is Open!</b></center>
