@@ -89,7 +89,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 #email = "tolomei@di.uniroma1.it"
-phone = "+39 06 4925 5159"
+phone = "+39 06 4925 5475"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -137,7 +137,7 @@ twitter = "gtolomei"
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "3:04 p.m."
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
 address_format = "en-us"
