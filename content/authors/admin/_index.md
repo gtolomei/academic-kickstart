@@ -23,7 +23,7 @@ bio:
 interests:
 - travelling
 - swimming & skiing (actually, _any_ sport!)
-- motorbike riding
+- riding motorbike
 
 education:
   courses:
