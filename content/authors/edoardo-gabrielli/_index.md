@@ -26,7 +26,8 @@ organizations:
 # - riding motorbike
 
 education:
-  course: MSc in Computer Science
+  courses: 
+  - course: MSc in Computer Science
     institution: Sapienza University of Rome, Italy
     year: 2023
 
