@@ -13,7 +13,7 @@ content:
   user_groups:
     - Lab Head
     - PhD Students
-    - Grad Students
+    - Graduate Students
 design:
   # Show user's social networking links? (true/false)
   show_social: true
