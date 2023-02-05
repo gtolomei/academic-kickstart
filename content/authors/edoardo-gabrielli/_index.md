@@ -14,7 +14,7 @@ role: MSc in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Sapienza University of Rome
+- name: Sapienza University of Rome, Italy
   url: "https://www.di.uniroma1.it/en"
 
 # Short bio (displayed in user profile at end of posts)
