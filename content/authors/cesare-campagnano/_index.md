@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ziheng Chen
+title: Cesare Campagnano
 
 # Username (this should match the folder name)
 authors:
-- ziheng-chen
+- cesare-campagnano
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: PhD Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stony Brook University, NY, USA
-  url: "https://www.stonybrook.edu/commcms/ams/"
+- name: Sapienza University of Rome, Italy
+  url: "https://www.uniroma1.it/en/pagina-strutturale/home"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -27,12 +27,15 @@ organizations:
 
 education:
   courses: 
-  - course: PhD in Computer Science
-    institution: Stony Brook University, NY, USA
+  - course: PhD Student in Computer Science
+    institution: Sapienza University of Rome, Italy
     year: 2023 (expected)
-  - course: BSc in Statistics
-    institution: Renmin University of China
-    year: 2016
+  - course: MSc in Computer Engineering
+    institution: Sapienza University of Rome, Italy
+    year: 2020
+  - course: BSc in Computer Engineering
+    institution: Sapienza University of Rome, Italy
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -41,22 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'ziheng.chen@stonybrook.edu'  # For a direct email link, use "mailto:your-email@example.com".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/gtolomei
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://linkedin.com/in/gabrieletolomei
+  link: 'campagnano@di.uniroma1.it'  # For a direct email link, use "mailto:your-email@example.com".
+- icon: twitter   
+  icon_pack: fab
+  link: https://twitter.com/caesar_one_
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/caesar-one
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ViwmM7IAAAAJ&hl=en
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-2585-637X
+  link: https://scholar.google.com/citations?user=k113XQIAAAAJ&hl=en
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-2585-637X
 - icon: github
   icon_pack: fab
-  link: https://github.com/Mewtwo1996
+  link: https://github.com/caesar-one
 # # Link to a PDF of your resume/CV from the About widget.
 # # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.  
 # - icon: cv
