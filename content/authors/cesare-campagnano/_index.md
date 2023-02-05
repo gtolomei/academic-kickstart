@@ -45,8 +45,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'campagnano@di.uniroma1.it'  # For a direct email link, use "mailto:your-email@example.com".
-- icon: house
-  icon_pack: custom
+- icon: fa-house
+  icon_pack: fas
   link: 'https://caesar.one/' 
 - icon: twitter   
   icon_pack: fab
