@@ -7,7 +7,7 @@ authors:
 - edoardo-gabrielli
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Graduated Student in Computer Science
@@ -61,7 +61,7 @@ social:
 #   link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "edo.gab33@gmail.com"
+#email: "edo.gab33@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
