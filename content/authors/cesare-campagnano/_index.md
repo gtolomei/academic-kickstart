@@ -15,7 +15,7 @@ role: PhD Student in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Sapienza University of Rome, Italy
-  url: "https://www.uniroma1.it/en/pagina-strutturale/home"
+  url: "https://www.di.uniroma1.it/en"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'campagnano@di.uniroma1.it'  # For a direct email link, use "mailto:your-email@example.com".
+- icon: house
+  icon_pack: fas
+  link: 'https://caesar.one/' 
 - icon: twitter   
   icon_pack: fab
   link: https://twitter.com/caesar_one_
