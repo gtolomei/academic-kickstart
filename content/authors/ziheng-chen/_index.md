@@ -28,7 +28,7 @@ organizations:
 education:
   courses: 
   - course: PhD in Computer Science
-    institution: Stony Brook University, NY, USA
+    institution: Stony Brook University
     year: 2023 (expected)
   - course: BSc in Statistics
     institution: Renmin University of China
