@@ -1,13 +1,22 @@
 ---
-title: "Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking"
-date: 2017-01-01
-publishDate: 2021-08-31T10:07:41.520110Z
-authors: ["Gabriele Tolomei", "Fabrizio Silvestri", "Andrew Haines", "Mounia Lalmas"]
-publication_types: ["1"]
-abstract: ""
+title: Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking
+date: '2017-01-01'
+publishDate: '2023-02-05T18:18:34.701430Z'
+authors:
+- Gabriele Tolomei
+- Fabrizio Silvestri
+- Andrew Haines
+- Mounia Lalmas
+publication_types:
+- '1'
+abstract: ''
 featured: false
-publication: "*Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Halifax, NS, Canada, August 13 - 17, 2017*"
-url_pdf: "https://doi.org/10.1145/3097983.3098039"
-doi: "10.1145/3097983.3098039"
+publication: '*Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge
+  Discovery and Data Mining, Halifax, NS, Canada, August 13 - 17, 2017*'
+url_pdf: https://doi.org/10.1145/3097983.3098039
+doi: 10.1145/3097983.3098039
+links:
+- name: URL
+  url: https://doi.org/10.1145/3097983.3098039
 ---
 
