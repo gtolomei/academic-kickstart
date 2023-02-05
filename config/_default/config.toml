@@ -103,6 +103,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     name = "authors"
     weight = 20.0
 
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - WC_POST_CSS
+
 # Install Wowchemy
 [module]
   [[module.imports]]
