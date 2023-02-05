@@ -14,7 +14,7 @@ role: PhD Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stony Brook University, NY, USA
+- name: Stony Brook University
   url: "https://www.stonybrook.edu/commcms/ams/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ organizations:
 education:
   courses: 
   - course: PhD in Computer Science
-    institution: Stony Brook University
+    institution: Stony Brook University, NY, USA
     year: 2023 (expected)
   - course: BSc in Statistics
     institution: Renmin University of China
