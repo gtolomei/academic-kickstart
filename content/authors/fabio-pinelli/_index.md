@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Fabrizio Silvestri
+title: Fabio Pinelli
 
 # Username (this should match the folder name)
 authors:
-- fabrizio-silvestri
+- fabio-pinelli
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full Professor of<br>Computer Science
+role: Assistant Professor of<br>Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Sapienza University of Rome
-  url: "https://www.di.uniroma1.it/en"
+- name: IMT School for Advanced Studies Lucca
+  url: "https://www.imtlucca.it/en"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -29,10 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Pisa, Italy
-    year: 2004
+    year: 2010
   - course: MSc in Computer Science
     institution: University of Pisa, Italy
-    year: 2000
+    year: 2005
+  - course: BSc in Computer Science
+    institution: University of Pisa, Italy
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -41,25 +44,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fsilvestri@diag.uniroma1.it'  # For a direct email link, use "mailto:your-email@example.com".
+  link: 'fabio.pinelli@imtlucca.it'  # For a direct email link, use "mailto:your-email@example.com".
 - icon: home
   icon_pack: fas
-  link: https://sites.google.com/diag.uniroma1.it/fabriziosilvestri/home
+  link: https://sysma.imtlucca.it/pages/fabio-pinelli/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/fabreetseo
+  link: https://twitter.com/fpinell80
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/
+  link: https://www.linkedin.com/in/fabio-pinelli-3032008/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=pi985dQAAAAJ
+  link: https://scholar.google.it/citations?user=rfqxMS0AAAAJ&hl=it
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-7669-9055
+  link: https://orcid.org/0000-0003-1058-6917
 - icon: github
   icon_pack: fab
-  link: https://github.com/fabriziosilvestri
+  link: https://github.com/fpinell
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.  
 # - icon: cv
