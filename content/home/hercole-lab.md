@@ -15,6 +15,7 @@ content:
     - Collaborators
     - PhD Students
     - Graduate Students
+    - Undergraduate Students
 design:
   # Show user's social networking links? (true/false)
   show_social: true
