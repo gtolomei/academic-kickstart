@@ -20,5 +20,6 @@ I am happy to announce that the **1st Workshop on Federated Learning for Informa
 
 The goal of FLIRT is to provide an open forum for researchers and practitioners to exchange ideas, identify key challenges, and define the roadmap toward a successful application of federated learning in the broad information retrieval domain.
 
-Sounds cool? For more information, check out the website of the workshop following this link: <a href="https://sites.google.com/view/flirt-sigir23" target="_blank">https://sites.google.com/view/flirt-sigir23</a>.
+Sounds cool?<br/>
+For more information, check out the website of the workshop following this link: <a href="https://sites.google.com/view/flirt-sigir23" target="_blank">https://sites.google.com/view/flirt-sigir23</a>.<br/>
 FLIRT is also on <a href="https://twitter.com/flirtsigir" target="_blank">Twitter</a> and on <a href="https://www.facebook.com/flirtworkshop" target="_blank">Facebook</a>!
