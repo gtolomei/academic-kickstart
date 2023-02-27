@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 title: HERCOLE Lab
 subtitle:
-weight: 30  # section position on page
+weight: 3  # section position on page
 
 content:
   # Choose which groups/teams of users to display.
