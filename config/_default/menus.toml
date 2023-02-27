@@ -16,12 +16,13 @@
 [[main]]
   name = "HERCOLE Lab"
   url = "#hercole-lab"
+  identifier = "hercole"
   weight = 30
   
 [[main]]
   name = "Projects"
-  parent = "hercole-lab"
   url = "#projects"
+  parent = "hercole"
   weight = 10
 
 [[main]]
