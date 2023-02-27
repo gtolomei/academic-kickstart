@@ -36,5 +36,5 @@ I am happy to announce that the **H**uman-**E**xplainable, **R**obust, and **CO*
 The research mission of the HERCOLE Lab is to make next-generation ML and AI systems more **understandable** to humans, **resilient** to adversarial attacks, and **decentralized** to edge devices.
 
 Are you interested to join the team?  
-Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or visit <a href="https://gabrieletolomei.netlify.app/#projects">https://gabrieletolomei.netlify.app/#projects</a> (currently under construction!) for more information about past and ongoing research projects, and Bachelor/Master/Ph.D. thesis opportunities with the lab.  
+Feel free to drop me a message at <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> or navigate through the menu sections (currently under construction!) for more information about past and ongoing <a href="https://gabrieletolomei.netlify.app/#projects">research projects</a>, and Bachelor/Master/Ph.D. thesis opportunities with the lab.  
 In the meantime, stay tuned and follow the official Twitter account <a href="https://twitter.com/HercoleLab" target="_blank">@HercoleLab</a> to keep you always up to date!
