@@ -20,8 +20,9 @@
   
 [[main]]
   name = "Projects"
-  url = "#hercole-lab"
-  weight = 40
+  parent = "hercole-lab"
+  url = "#projects"
+  weight = 10
 
 [[main]]
   name = "Publications"
