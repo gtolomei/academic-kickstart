@@ -19,11 +19,11 @@
   identifier = "hercole"
   weight = 3
   
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  parent = "hercole"
-  weight = 1
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  parent = "hercole"
+#  weight = 1
 
 [[main]]
   name = "Publications"
