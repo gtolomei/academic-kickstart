@@ -8,11 +8,11 @@ weight = 5  # Order that this section will appear.
 title = "Projects"
 subtitle = ""
 
-Under Construction
-
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+
+  Under Construction
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
