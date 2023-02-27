@@ -20,34 +20,40 @@
   weight = 3
   
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Mission"
+  url = "#hercole-lab"
   parent = "hercole"
   weight = 4
 
 [[main]]
+  name = "Projects"
+  url = "#projects"
+  parent = "hercole"
+  weight = 5
+
+[[main]]
   name = "Publications"
   url = "#publications"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 6
+  weight = 7
 
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
-#  weight = 7
+#  weight = 8
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "media/cv.pdf"
-  weight = 8
+  weight = 9
