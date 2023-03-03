@@ -9,9 +9,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
-#header:
-#  caption: "FLIRT"
-#  image: "flirt.png"
+header:
+  caption: "FLIRT"
+  image: "flirt-logo.png"
 ---
 
 <center><b>FLIRT@SIGIR 2023</b></center>
