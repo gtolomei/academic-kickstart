@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "ReLAX"
-  image: ""
+  image: "relax.png"
 ---
 
 ReLAX
