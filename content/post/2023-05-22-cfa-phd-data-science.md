@@ -1,7 +1,7 @@
 ---
 title: "PhD in Data Science: 2023-24 Call for Application"
 summary: The 2023-24 Call for Application to the PhD in Data Science at Sapienza University is open!
-date: "2022-05-22"
+date: "2023-05-22"
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
