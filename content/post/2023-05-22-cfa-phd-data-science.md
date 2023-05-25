@@ -18,6 +18,6 @@ header:
 
 Please, check out the [call for application](https://www.uniroma1.it/en/pagina/admissions-phd-programmes) to the _39th Cycle of the PhD Program in Data Science at Sapienza University_.
 
-The call (in Italian) can be found at the following [link](https://www.uniroma1.it/sites/default/files/user/1824/bando_39deg_definitivo_con_allegati.pdf).
+The call can be found at the following [link](https://phd.uniroma1.it/web/concorso39.aspx?s=&i=3565&m=&l=EN&p=&a=).
 
 **The deadline for submitting your application is June 22, 2023, at 2 p.m. CEST time**
