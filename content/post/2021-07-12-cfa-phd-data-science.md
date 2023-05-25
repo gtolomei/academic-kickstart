@@ -1,6 +1,6 @@
 ---
-title: "PhD in Data Science: 2021 Call for Application"
-summary: The 2021 Call for Application to the PhD in Data Science at Sapienza University is open!
+title: "PhD in Data Science: 2021-22 Call for Application"
+summary: The 2021-22 Call for Application to the PhD in Data Science at Sapienza University is open!
 date: "2021-07-12"
 
 reading_time: false  # Show estimated reading time?
@@ -26,4 +26,4 @@ Any further information about the PhD in Data Science can be found at the follow
 * https://phd.uniroma1.it/web/concorso37.aspx?s=&i=3565&m=&l=EN&p=&a= 
 * http://dottoratods.diag.uniroma1.it/admission
 
-**The deadline for submitting your application is October, 27 2021, at 2 p.m. CEST time**
+**The deadline for submitting your application is October 27, 2021, at 2 p.m. CEST time**
