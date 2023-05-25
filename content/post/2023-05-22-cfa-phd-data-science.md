@@ -15,7 +15,7 @@ header:
 ---
 
 <center><b>Want to pursue a research career in Data Science?</b></center>
-<br>
+<br/>
 
 Please, check out the [call for application](https://phd.uniroma1.it/web/concorso39.aspx?s=&i=3565&m=&l=EN&p=&a=) to the _39th Cycle of the PhD Program in Data Science at Sapienza University_.
 
