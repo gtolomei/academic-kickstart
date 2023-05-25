@@ -16,7 +16,7 @@ header:
 
 <center><b>Want to pursue a research career in Data Science?</b></center>
 
-Please, check out the [call for application](https://www.uniroma1.it/en/pagina/phd-programmes) to the _39th Cycle of the PhD Program in Data Science at Sapienza University_.
+Please, check out the [call for application](https://www.uniroma1.it/en/pagina/admissions-phd-programmes) to the _39th Cycle of the PhD Program in Data Science at Sapienza University_.
 
 The call (in Italian) can be found at the following [link](https://www.uniroma1.it/sites/default/files/user/1824/bando_39deg_definitivo_con_allegati.pdf).
 
