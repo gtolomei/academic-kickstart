@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Cesare Campagnano
+title: Flavio Giorgi
 
 # Username (this should match the folder name)
 authors:
-- cesare-campagnano
+- flavio-giorgi
 
 # Is this the primary user of the site?
 superuser: false
@@ -29,13 +29,13 @@ education:
   courses: 
   - course: PhD Student in Computer Science
     institution: Sapienza University of Rome, Italy
-    year: 2024 (expected)
+    year: 2025 (expected)
   - course: MSc in Computer Engineering
     institution: Sapienza University of Rome, Italy
-    year: 2020
+    year: 2022
   - course: BSc in Computer Engineering
     institution: Sapienza University of Rome, Italy
-    year: 2018
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,25 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:campagnano@di.uniroma1.it'  # For a direct email link, use "mailto:your-email@example.com".
+  link: 'mailto:giorgi@di.uniroma1.it'  # For a direct email link, use "mailto:your-email@example.com".
 - icon: home
   icon_pack: fas
-  link: 'https://caesar.one/' 
-- icon: twitter   
-  icon_pack: fab
-  link: https://twitter.com/caesar_one_
+  link: 'https://www.flaviogiorgi.com/about-me'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/caesar-one
+  link: https://www.linkedin.com/in/flavio-giorgi-2683341b5/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=k113XQIAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=5dFQkoMAAAAJ&hl=it
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-2585-637X
 - icon: github
   icon_pack: fab
-  link: https://github.com/caesar-one
+  link: https://github.com/flaat
 # # Link to a PDF of your resume/CV from the About widget.
 # # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.  
 # - icon: cv

@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'fabio.pinelli@imtlucca.it'  # For a direct email link, use "mailto:your-email@example.com".
+  link: 'mailto:fabio.pinelli@imtlucca.it'  # For a direct email link, use "mailto:your-email@example.com".
 - icon: home
   icon_pack: fas
   link: https://sysma.imtlucca.it/pages/fabio-pinelli/
