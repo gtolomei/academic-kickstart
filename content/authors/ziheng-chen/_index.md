@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student in Computer Science
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stony Brook University
-  url: "https://www.stonybrook.edu/commcms/ams/"
+- name: Walmart Labs, Sunnuvale, CA, USA
+  url: "https://tech.walmart.com/content/walmart-global-tech/en_us.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -29,7 +29,7 @@ education:
   courses: 
   - course: PhD in Computer Science
     institution: Stony Brook University, NY, USA
-    year: 2023 (expected)
+    year: 2023
   - course: BSc in Statistics
     institution: Renmin University of China
     year: 2016
@@ -69,5 +69,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- Collaborators
 ---

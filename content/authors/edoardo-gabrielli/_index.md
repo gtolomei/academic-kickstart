@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc in Computer Science
+role: PhD Student in Cybersecurity
 
 # Organizations/Affiliations
 organizations:
