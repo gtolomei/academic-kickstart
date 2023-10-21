@@ -14,7 +14,7 @@ role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Walmart Labs, Sunnuvale, CA, USA
+- name: Walmart Labs, Sunnyvale, CA, USA
   url: "https://tech.walmart.com/content/walmart-global-tech/en_us.html"
 
 # Short bio (displayed in user profile at end of posts)
