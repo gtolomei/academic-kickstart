@@ -30,10 +30,10 @@ education:
   - course: PhD Student in Computer Science
     institution: Sapienza University of Rome, Italy
     year: 2025 (expected)
-  - course: MSc in Computer Engineering
+  - course: MSc in Computer Science
     institution: Sapienza University of Rome, Italy
     year: 2022
-  - course: BSc in Computer Engineering
+  - course: BSc in Computer Science
     institution: Sapienza University of Rome, Italy
     year: 2019
 

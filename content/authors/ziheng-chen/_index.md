@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'ziheng.chen@stonybrook.edu'  # For a direct email link, use "mailto:your-email@example.com".
+  link: 'mailto:ziheng.chen@stonybrook.edu'  # For a direct email link, use "mailto:your-email@example.com".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/gtolomei
