@@ -34,7 +34,6 @@ education:
     institution: University of Florence, Italy
     year: 2020
   - course: BSc in Scienze dell'Economia e della Gestione Aziendale, Sviluppo economico, Cooperazione internazionale socio-sanitaria e gestione dei conflitti
-Grade: 110/110 cum laude
     institution: University of Florence, Italy
     year: 2016
 
